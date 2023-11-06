@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leshapop
-- 👀 I’m interested in python, php
+- 👀 I’m interested in python, php, linux
 - 🌱 I’m currently learning python
 
 <!---
